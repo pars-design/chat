@@ -56,7 +56,7 @@ This package allows you to add a chat system to your Laravel ^5.4 application
 From the command line, run:
 
 ```
-composer require musonza/chat
+composer require pars-design/chat
 ```
 
 Publish the assets:
